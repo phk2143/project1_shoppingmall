@@ -9,7 +9,11 @@ public class MemberService {
 		
 	}
 	
-    public void selectAll2() {
+        public void selectAll2() {
+		
+	}
+	
+	public void update() {
 		
 	}
 
