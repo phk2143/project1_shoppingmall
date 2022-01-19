@@ -8,11 +8,15 @@ public class ProductService {
 		productDao = new ProductDao();
 	}
 	
-    public void selectAll() {
+        public void selectAll() {
 		
 	}
     
-    public void selectAll2() {
+        public void selectAll2() {
+		
+	}
+	
+	public void insert() {
 		
 	}
 
